@@ -1,0 +1,60 @@
+.animal-name {
+  font-size: 30px;
+  color: black;
+
+  margin: 1px auto;
+  text-align: center;
+  font-family: cursive;
+  border: 1px solid black;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+.card {
+  border: 0.5px solid black;
+  background-origin: padding-box;
+  width: 320px;
+  margin: auto;
+  padding: 10px;
+}
+
+.first-p {
+  font-style: italic;
+  font-size: 12px;
+}
+
+.second-p {
+  font-size: 12px;
+}
+
+.frist-ul {
+  font-size: 10px;
+}
+
+.facts {
+  margin-bottom: 0.5px;
+
+  padding: 5px;
+
+  font-size: 10px;
+}
+li {
+  list-style: none;
+}
+
+.panda-img {
+  width: 300px;
+
+  border: 0.5px solid black;
+  border-radius: 100px;
+}
+span {
+  font-weight: bold;
+}
